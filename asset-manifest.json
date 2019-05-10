@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "yurevdb.com/static/css/main.19393e92.chunk.css",
-    "main.js": "yurevdb.com/static/js/main.3731608e.chunk.js",
-    "main.js.map": "yurevdb.com/static/js/main.3731608e.chunk.js.map",
-    "runtime~main.js": "yurevdb.com/static/js/runtime~main.711d0c31.js",
-    "runtime~main.js.map": "yurevdb.com/static/js/runtime~main.711d0c31.js.map",
-    "static/js/2.a864196f.chunk.js": "yurevdb.com/static/js/2.a864196f.chunk.js",
-    "static/js/2.a864196f.chunk.js.map": "yurevdb.com/static/js/2.a864196f.chunk.js.map",
-    "index.html": "yurevdb.com/index.html",
-    "precache-manifest.dcb0ab610b707bb6999eb161808fef5a.js": "yurevdb.com/precache-manifest.dcb0ab610b707bb6999eb161808fef5a.js",
-    "service-worker.js": "yurevdb.com/service-worker.js",
-    "static/css/main.19393e92.chunk.css.map": "yurevdb.com/static/css/main.19393e92.chunk.css.map",
-    "static/media/logo.svg": "yurevdb.com/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.19393e92.chunk.css",
+    "main.js": "/static/js/main.9496434b.chunk.js",
+    "main.js.map": "/static/js/main.9496434b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.a864196f.chunk.js": "/static/js/2.a864196f.chunk.js",
+    "static/js/2.a864196f.chunk.js.map": "/static/js/2.a864196f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5e3cce2c79ef905ba195d4fe2bb3238f.js": "/precache-manifest.5e3cce2c79ef905ba195d4fe2bb3238f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   }
 }
